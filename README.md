@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/images/github/banner.png" alt="Internship Management System Banner" width="100%">
-</p>
-
 <br>
 # 🎓 Internship Management System
 
