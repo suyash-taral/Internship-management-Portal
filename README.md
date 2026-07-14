@@ -174,7 +174,7 @@ localhost/Internship-Management-System
 ## 🔐 Login Page
 
 <p align="center">
-  <img src="assets/images/github/login.png" width="100%">
+  <img src="assets/github/login.png" width="100%">
 </p>
 
 ---
@@ -182,7 +182,7 @@ localhost/Internship-Management-System
 ## 🎓 Student Dashboard
 
 <p align="center">
-  <img src="assets/images/github/student-dashboard.png" width="100%">
+  <img src="assets/github/student-dashboard.png" width="100%">
 </p>
 
 ---
@@ -190,7 +190,7 @@ localhost/Internship-Management-System
 ## 👨‍🏫 Faculty Dashboard
 
 <p align="center">
-  <img src="assets/images/github/faculty-dashboard.png" width="100%">
+  <img src="assets/github/faculty-dashboard.png" width="100%">
 </p>
 
 ---
@@ -198,7 +198,7 @@ localhost/Internship-Management-System
 ## 🛡️ Admin Dashboard
 
 <p align="center">
-  <img src="assets/images/github/admin-dashboard.png" width="100%">
+  <img src="assets/github/admin-dashboard.png" width="100%">
 </p>
 
 ---
@@ -206,7 +206,7 @@ localhost/Internship-Management-System
 ## 📊 Analytics Dashboard
 
 <p align="center">
-  <img src="assets/images/github/analytics.png" width="100%">
+  <img src="assets/github/analytics.png" width="100%">
 </p>
 ---
 
