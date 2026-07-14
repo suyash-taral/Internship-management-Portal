@@ -225,7 +225,7 @@ localhost/Internship-Management-System
 
 # 👨‍💻 Author
 
-**Swaraj Ingale**
+**Suyash Taral**
 
 B.Tech Computer Science Engineering
 
